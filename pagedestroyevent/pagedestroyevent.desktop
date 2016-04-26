@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=pagedestroyevent
+Exec=pagedestroyevent
+Icon=pagedestroyevent/pagedestroyevent.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

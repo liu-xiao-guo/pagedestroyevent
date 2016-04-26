@@ -1,0 +1,17 @@
+{
+    "name": "pagedestroyevent.liu-xiao-guo",
+    "description": "description of pagedestroyevent",
+    "architecture": "@CLICK_ARCH@",
+    "title": "pagedestroyevent",
+    "hooks": {
+        "pagedestroyevent": {
+            "apparmor": "pagedestroyevent/pagedestroyevent.apparmor",
+            "desktop":  "pagedestroyevent/pagedestroyevent.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
